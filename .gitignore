@@ -1,0 +1,4 @@
+wifi_ap_udp_server/build/
+wifi_station_udp_client/build/
+ble_server/build/
+ble_client/build/
